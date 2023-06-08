@@ -1,2 +1,1 @@
 # school-management-system
-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
